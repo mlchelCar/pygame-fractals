@@ -156,7 +156,7 @@ def main():
 
     if len(sys.argv) != 3:
         raise Exception(
-            '\nUsage: python3 mandelbrot_set.py [fractal] [color]\nfractal = mandelbrot/burning_ship/other\ncolor = gray/pink/blue')
+            '\nUsage: python3 pygame-fractals.py [fractal] [color]\nfractal = mandelbrot/burning_ship/other\ncolor = gray/pink/blue')
     else:
         fractal = sys.argv[1]
         color_scheme = sys.argv[2]
