@@ -22,7 +22,7 @@ Just type:
 
     git clone https://github.com/mlchelCar/pygame-fractals.git
     cd pygame-fractals
-    pip3 install requirements.txt -r
+    pip3 install -r requirements.txt
 
 # Usage
 - Escape key:
