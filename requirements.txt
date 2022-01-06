@@ -1,4 +1,2 @@
-sys
-tkinter
 pygame
 numba
