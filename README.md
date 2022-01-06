@@ -27,9 +27,10 @@ Just type:
 # Usage
 python3 pygame-fractals.py fractal color
 
-fractal: mandelbrot/burning_ship/other <br />
-color: gray/pink/blue
+- fractal: mandelbrot/burning_ship/other
+- color: gray/pink/blue
 
+Keys
 - Escape key:
   quit
 - Up key:
