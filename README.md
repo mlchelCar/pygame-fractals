@@ -25,6 +25,11 @@ Just type:
     pip3 install -r requirements.txt
 
 # Usage
+python3 pygame-fractals.py <fractal> <color>
+
+fractal = mandelbrot/burning_ship/other
+color = gray/pink/blue
+
 - Escape key:
   quit
 - Up key:
