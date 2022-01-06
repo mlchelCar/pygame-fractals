@@ -1,5 +1,5 @@
 # Pygame-Fractals
-A python scrit that uses pygame to display interactive fractals.
+A python script that uses pygame to display interactive fractals.
 There are 3 fractals on the script. They can be displayed on the colors gray, blue, pink.
 You can walk and zoom on the fractals.
 
